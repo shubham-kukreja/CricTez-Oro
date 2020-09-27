@@ -14,7 +14,6 @@
   "dependencies": {
     "axios": "^0.20.0",
     "conseiljs": "^0.4.3",
-    "dotenv": "^8.2.0",
-    "puppeteer": "^5.3.1"
+    "dotenv": "^8.2.0"
   }
 }
