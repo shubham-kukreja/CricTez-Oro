@@ -1,0 +1,19 @@
+{
+  "name": "sksol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "oro": "node ./feedData.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "conseiljs": "^0.4.3",
+    "dotenv": "^8.2.0",
+    "puppeteer": "^5.3.1"
+  }
+}
